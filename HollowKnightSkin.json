@@ -1,0 +1,12 @@
+{
+	"id": "HollowKnightSkin",
+	"name": "Hollow Knight Skin",
+	"author": ["u/ElderEule, u/Cool-Escape2986"],
+	"description": "A Hollow Knight skin made by u/ElderEule.",
+	"prefix": "HollowKnightSkin",
+	"dependencies": [
+		"Steamodded (>=1.0.0~ALPHA-1404b)"
+	],
+	"main_file": "HollowKnightSkin.lua",
+	"version": "1.0.0"
+}
